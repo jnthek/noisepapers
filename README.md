@@ -21,5 +21,5 @@ A collection of links to papers on noise
 
 ## Papers related to noise, specific to radio astronomy
 1. [Noise in Images of Very Bright Sources] (https://ui.adsabs.harvard.edu/abs/1989ASPC....6..431A/abstract)
-2. [Noise and Interferometry](https://ui.adsabs.harvard.edu/abs/1999ASPC..180..671R/abstract)
+2. [Noise and Interferometry] (https://ui.adsabs.harvard.edu/abs/1999ASPC..180..671R/abstract)
 3. [A measurement of source noise at low frequency: Implications for modern interferometers] (https://doi.org/10.1017/pasa.2021.3)
