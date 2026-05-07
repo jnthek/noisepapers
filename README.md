@@ -10,6 +10,7 @@ A collection of links to papers on noise
 5. [Thermal Agitation of Electricity in Conductors] (https://doi.org/10.1103/PhysRev.32.97)
 6. [Thermal Agitation of Electric Charge in Conductors] (https://doi.org/10.1103/PhysRev.32.110)
 7. [On spontaneous current fluctuations in various electrical conductors] (https://doi.org/10.1117/1.JMM.17.4.041001)
+8. [The mathematics of Brownian motion and Johnson noise] (https://doi.org/10.1119/1.18210)
 
 ## Noise measurements
 1. [Theory of Noisy Fourpoles] (https://doi.org/10.1109/JRPROC.1956.274998)
