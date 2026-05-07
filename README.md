@@ -18,6 +18,7 @@ A collection of links to papers on noise
 4. [Noise waves and passive linear multiports] (https://doi.org/10.1109/75.89082)
 5. [Microwave Thermal Noise Standards] (https://doi.org/10.1109/TMTT.1968.1126767)
 6. [Noise Measurements] (https://doi.org/10.1049/PBEL012E_ch8)
+7. [An active “cold” noise source] (https://doi.org/10.1109/TMTT.1981.1130355)
 
 
 ## Papers related to noise, specific to radio astronomy
